@@ -31,3 +31,9 @@ Le code est structuré de manière modulaire en deux classes principales :
 2.  Exécuter le programme (bouton Play).
 3.  Déplacer la souris latéralement pour manipuler le verre.
 4.  Effectuer des mouvements brusques pour provoquer des projections de liquide.
+
+## 7.Traçabilité 
+1. J'ai utilisé l'ia pour la partie de génération des particules, le masque du rectangle représentant l'eau du verre
+2. Prompt utilisé : Voici mes spécifications. Ne génère pas le code final. Aide-moi à coder étape par étape en m'expliquant chaque fonction p5.js dont j'ai besoin. Commence par la section Canvas.
+Le devra être simple orienté objet, et qui utilise les vecteurs. Je vodrais un verre qu'on pourra secouer en agitant la souris de gauche à droite et de l'eau sortira donc du verre quand on le secoue. le code devra être structuré et adaptable.
+3. J'ai effectué plusieurs modifications comme l'angle d'inclinaison du verre, la taille, l'orientation et la réduction du rectangle d'eau, la détection de la souris (changement de place dans le plan).
