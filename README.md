@@ -36,4 +36,4 @@ Le code est structuré de manière modulaire en deux classes principales :
 1. J'ai utilisé l'ia pour la partie de génération des particules, le masque du rectangle représentant l'eau du verre
 2. Prompt utilisé : Voici mes spécifications. Ne génère pas le code final. Aide-moi à coder étape par étape en m'expliquant chaque fonction p5.js dont j'ai besoin. Commence par la section Canvas.
 Le code devra être simple orienté objet, et qui utilise les vecteurs. Je voudrais un verre qu'on pourra secouer en agitant la souris de gauche à droite et de l'eau sortira donc du verre quand on le secoue. le code devra être structuré et adaptable.
-3. J'ai effectué plusieurs modifications comme l'angle d'inclinaison du verre, la taille, l'orientation et la réduction du rectangle d'eau, la détection de la souris (changement de place dans le plan).
+3. J'ai effectué plusieurs modifications comme l'angle d'inclinaison du verre, la taille, l'orientation et les propriétés de la réduction du rectangle d'eau, la détection de la souris (changement de place dans le plan).
